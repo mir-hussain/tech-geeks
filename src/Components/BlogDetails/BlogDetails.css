@@ -16,6 +16,17 @@
   position: absolute;
   top: 10px;
   left: 10px;
+  border: none;
+  background-color: transparent;
+  font-family: "Teko", sans-serif;
+  font-size: 30px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.back-button p {
+  margin-top: 4px;
 }
 
 .blog-details {
