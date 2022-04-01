@@ -23,6 +23,7 @@
   color: white;
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .back-button p {
